@@ -11,3 +11,7 @@
 #### Avatar:
 
 <img src="avatar.png" width="400"> 
+
+.
+├── Assignments/              # Starter files (read-only templates)
+├── Assignments_Completed/    # Your finished work goes here
