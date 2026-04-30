@@ -1,3 +1,3 @@
 ## 01-Python_Foundation
 
-These are all my completed assignment for 01-Pyhton_Foundation
+Consist of all the folders under Assignment 01
