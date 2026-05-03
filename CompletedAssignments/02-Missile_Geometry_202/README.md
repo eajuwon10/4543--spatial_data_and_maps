@@ -1,3 +1,3 @@
 ## 02-Missile_Geometry_202
 
-hello world
+Consist of all the assignment folders under Assignment 02
