@@ -1,0 +1,3 @@
+#!/Users/esther/Documents/4543--spatial_data_and_maps/.venv/bin/python
+
+print('This command has been deprecated; see the "pmtiles serve" command at https://github.com/protomaps/go-pmtiles')
