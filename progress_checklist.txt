@@ -402,5 +402,13 @@ completed_assignments/
   Use a number from 0 to 10, where 10 = 100% complete.
 ============================================================
 
-  Score: 8.5 / 10
-
+  Score: 90 / 100
+# This was a great class and GREAT context overall. I do feel i should've met with you a lot earlier
+# in the semester to set up my computer cause i met with you 2/3 weeks before the semester ended, and
+# i'm pretty confident i would have gotten all the notebooks required done. i completed 50% Pyhton
+# Foundation (required), 100% Data Manager (i couldnt uupload lesson 7 notebook 1 cause the file
+# was larger than 50mb) and 50% missile Geometry 202 (cause it was 60 nottebooks, i couldnt finish it).
+# i didnt do 201 cause when i met with you, you told me to work on 202.
+# But grading myself based on my completed assignment folder, i think i did a good job. and i took
+# the 10% out cause its on me for not getting my stuffs together earlier during the semester.
+# Overall, it was a great semester with you as always!
